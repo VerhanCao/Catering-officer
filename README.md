@@ -1,7 +1,5 @@
 English | 简体中文
-
-https://github.com/VerhanCao/Dietary-health-program/blob/main/resource/figures/companion-officer.png
-
+![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://github.com/VerhanCao/Dietary-health-program/blob/main/resource/figures/companion-officer.png))
 饮食陪伴师是一个管理饮食的原生大模型小程序，优势：
 1. 精确营养监控：用户记录饮食后，我们会计算出食用的营养成分与分量，并反馈给用户。
 2. 饮食建议有效：大模型经过我们训练具备大量专业知识，它给出的饮食建议科学有效。
